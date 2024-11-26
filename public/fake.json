@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "image": "https://i.ibb.co.com/YXXjMJd/Ben-Stokes-1200x800-1.webp",
+      "description": "A sleek and ergonomic wireless mouse.",
+      "price": 25.99,
+      "category": "Electronics",
+      "isFeature": true
+    },
+    {
+      "id": 2,
+      "name": "Bluetooth Speaker",
+      "image": "https://i.ibb.co.com/YXXjMJd/Ben-Stokes-1200x800-1.webp",
+      "description": "Portable speaker with excellent sound quality.",
+      "price": 49.99,
+      "category": "Electronics",
+      "isFeature": false
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "image": "https://i.ibb.co.com/YXXjMJd/Ben-Stokes-1200x800-1.webp",
+      "description": "Lightweight and durable running shoes.",
+      "price": 89.99,
+      "category": "Footwear",
+      "isFeature": true
+    },
+    {
+      "id": 4,
+      "name": "Coffee Mug",
+      "image": "https://i.ibb.co.com/YXXjMJd/Ben-Stokes-1200x800-1.webp",
+      "description": "A large ceramic mug for your coffee.",
+      "price": 12.50,
+      "category": "Kitchenware",
+      "isFeature": false
+    },
+    {
+      "id": 5,
+      "name": "Smartphone",
+      "image": "https://i.ibb.co.com/YXXjMJd/Ben-Stokes-1200x800-1.webp",
+      "description": "Latest model smartphone with advanced features.",
+      "price": 799.99,
+      "category": "Electronics",
+      "isFeature": true
+    },
+    {
+      "id": 6,
+      "name": "Notebook",
+      "image": "https://i.ibb.co.com/YXXjMJd/Ben-Stokes-1200x800-1.webp",
+      "description": "Hardcover notebook for notes and sketches.",
+      "price": 7.99,
+      "category": "Stationery",
+      "isFeature": false
+    }
+  ]
+  

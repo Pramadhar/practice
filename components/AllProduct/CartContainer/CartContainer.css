@@ -1,0 +1,11 @@
+.flex{
+    display: flex;
+    gap: 2%;
+}
+.active {
+    background-color: chartreuse;
+    color: white;
+}
+.btn{
+    padding: 10px;
+}

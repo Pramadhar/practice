@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full viewport height */
+  margin: 0;
+}
+
+.container {
+  width: 90%; /* Or a fixed width, e.g., 800px */
+  display: flex;
+  justify-content: space-around;
+  gap: 15%;
+  align-items: center;
+}

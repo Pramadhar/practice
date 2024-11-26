@@ -1,5 +1,6 @@
-import About from '../../About/About';
-import Cart from '../../Cart/Cart';
+import About from '../../components/About/About';
+
+import Cart from '../../components/Cart/Cart';
 import './CartContainer.css'
 const CartContainer = ({handleIsActive, isActive}) => {
     return (
@@ -13,7 +14,9 @@ const CartContainer = ({handleIsActive, isActive}) => {
              className={`${isActive.cart? "btn" : "btn active"}`}
              >About</div>
             </div>
-            {isActive.cart? <Cart></Cart>: <About></About>}
+            {/* {isActive.cart? <Cart></Cart>: <About></About>} */}
+            {isActive.cart? <cart></cart>: <About></About>}
+          
         </div>
     );
 };
